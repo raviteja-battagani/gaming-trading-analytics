@@ -1,0 +1,10 @@
+"paymethcat","total_attempts","successful","failed","failure_rate_pct"
+"Others",3,0,3,100.00
+"Mobile Carrier Billing",110,8,102,92.73
+"Cards",257,178,79,30.74
+"eWallet",72943,51420,21523,29.51
+"EEA debit/credit card",108758,78719,30039,27.62
+"Bank Transfer",58843,44715,14128,24.01
+"Prepaid Cards",318,247,71,22.33
+"ewallet",481,378,103,21.41
+"Voucher",53375,47936,5439,10.19

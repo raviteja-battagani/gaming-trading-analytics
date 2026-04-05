@@ -1,0 +1,4 @@
+"stage","from_count","to_count","dropped","drop_rate_pct"
+"Signup → Deposit",5016,5006,10,0.20
+"Deposit → Play",5006,5028,-22,-0.44
+"Play → Withdraw",5028,1739,3289,65.41

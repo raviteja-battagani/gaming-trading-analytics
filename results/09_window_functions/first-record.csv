@@ -1,0 +1,21 @@
+"userid","depositid","processdate","amount","paymethcat","deposit_sequence"
+11,3,"2015-02-01",10.00,"eWallet",1
+14,8,"2015-02-01",48.75,"EEA debit/credit card",1
+22,6291,"2015-02-03",20.00,"EEA debit/credit card",1
+37,2736,"2015-02-01",20.00,"Voucher",1
+38,131,"2015-02-01",10.00,"eWallet",1
+42,55,"2015-02-01",30.00,"eWallet",1
+70,50,"2015-02-01",61.10,"EEA debit/credit card",1
+73,686,"2015-02-01",25.00,"Voucher",1
+87,148,"2015-02-01",30.55,"EEA debit/credit card",1
+124,102,"2015-02-01",25.00,"eWallet",1
+125,83,"2015-02-01",50.00,"Voucher",1
+145,134,"2015-02-01",20.00,"eWallet",1
+148,43,"2015-02-01",1020.00,"EEA debit/credit card",1
+154,69,"2015-02-01",100.00,"Voucher",1
+159,512,"2015-02-01",10.00,"Voucher",1
+167,37,"2015-02-01",20.07,"EEA debit/credit card",1
+194,478611,"2016-09-21",15.00,"EEA debit/credit card",1
+199,66,"2015-02-01",51.00,"EEA debit/credit card",1
+208,41,"2015-02-01",102.00,"EEA debit/credit card",1
+227,67,"2015-02-01",150.00,"EEA debit/credit card",1
