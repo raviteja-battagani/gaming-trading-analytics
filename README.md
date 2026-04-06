@@ -1,4 +1,4 @@
-# 🎰 Poker Trading Analytics
+# Poker Trading Analytics
 
 **SQL-driven analysis of player behavior, trading performance, and fraud detection for an online poker platform.**
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes **6 years of transactional data** (Feb 2015 – Jul 2020) from a European online poker platform, using pure SQL to answer business questions that Trading and Product teams care about.
 
@@ -18,7 +18,7 @@ This project analyzes **6 years of transactional data** (Feb 2015 – Jul 2020) 
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 | Metric | Value | Insight |
 |--------|-------|---------|
@@ -33,7 +33,7 @@ This project analyzes **6 years of transactional data** (Feb 2015 – Jul 2020) 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 poker-trading-analytics/
@@ -57,7 +57,7 @@ poker-trading-analytics/
 
 ---
 
-## 📈 Analysis Segments
+## Analysis Segments
 
 ### 1. Financial Performance
 Core KPIs every gaming operator reports to investors.
